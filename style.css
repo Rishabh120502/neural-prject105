@@ -1,0 +1,26 @@
+body{
+    color: rgb(98, 250, 37);
+    background-color: yellow;
+    font-size: 15px;
+    font-weight: bold;
+}
+.heading{
+width:80%;
+font-size: 32px;
+}
+#camera{
+    width:350px;
+background-color: aquamarine;
+    height: 300px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: rgb(98, 250, 37);
+
+}
+
+#result{
+    border:3px solid black ;
+    background-color: aquamarine;
+    width:350px;
+    height:240px;
+}
